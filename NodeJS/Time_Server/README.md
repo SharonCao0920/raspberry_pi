@@ -2,6 +2,9 @@
 
 Time Server + Parsing Time Project on Raspberry Pi
 
+##Google Link
+https://docs.google.com/presentation/d/1XAkSt4FUhRcIo1oGNAgIyJs7iM4hXi_XtbE2ea6yzG4/edit?usp=sharing
+
 ## Introduction
 
 **Write a TCP time server!**
