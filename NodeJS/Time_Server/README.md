@@ -44,7 +44,6 @@ http://localhost:8000/api/unixtime?iso=2013-08-10T12:10:15.474Z
 
    * http_json_api_server.js
    * time_server.js
-      * MapReduce Program
 
 ## Test
 
